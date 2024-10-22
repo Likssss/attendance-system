@@ -14,7 +14,7 @@
             <div class="bar"></div>
         </div>
         <ul class="menu" id="menu">
-            <li><a href="../user/profile">Profile</a></li>
+            <li><a href="../user/profile.php">Profile</a></li>
             <li><a href="../attendance/attendance.php">Attendance</a></li>
             <li><a href="../logout/logout.php">Logout</a></li>
         </ul>

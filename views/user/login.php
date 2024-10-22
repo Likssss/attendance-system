@@ -21,7 +21,8 @@
     <div>
         <a href="../../views/user/signup.php">User Sign Up</a> | 
         <a href="../../views/admin/admin_signup.php">Admin Sign Up</a> | 
-        <a href="../../views/admin/admin_login.php">Admin Login</a>
+        <a href="../../views/admin/admin_login.php">Admin Login</a> | 
+        <a href="../../views/user/forgot_password.php">Forgot Password</a>
     </div>
 </body>
 </html>

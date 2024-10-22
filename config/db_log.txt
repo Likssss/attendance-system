@@ -1,0 +1,75 @@
+Column 'username' modified in 'users' table successfully
+Column 'email' modified in 'users' table successfully
+Column 'password' modified in 'users' table successfully
+Column 'is_admin' modified in 'users' table successfully
+Column 'is_verified' modified in 'users' table successfully
+Column 'notification' modified in 'users' table successfully
+Column 'notification_type' modified in 'users' table successfully
+Column 'timestamp' modified in 'users' table successfully
+Column 'name' modified in 'users' table successfully
+Column 'age' modified in 'users' table successfully
+Column 'birthday' modified in 'users' table successfully
+Column 'gender' modified in 'users' table successfully
+Database and tables already exist
+Default admin account already exists and is verified
+Database setup complete
+Column 'username' modified in 'users' table successfully
+Column 'email' modified in 'users' table successfully
+Column 'password' modified in 'users' table successfully
+Column 'is_admin' modified in 'users' table successfully
+Column 'is_verified' modified in 'users' table successfully
+Column 'notification' modified in 'users' table successfully
+Column 'notification_type' modified in 'users' table successfully
+Column 'timestamp' modified in 'users' table successfully
+Column 'name' modified in 'users' table successfully
+Column 'age' modified in 'users' table successfully
+Column 'birthday' modified in 'users' table successfully
+Column 'gender' modified in 'users' table successfully
+Database and tables already exist
+Default admin account already exists and is verified
+Database setup complete
+Column 'username' modified in 'users' table successfully
+Column 'email' modified in 'users' table successfully
+Column 'password' modified in 'users' table successfully
+Column 'is_admin' modified in 'users' table successfully
+Column 'is_verified' modified in 'users' table successfully
+Column 'notification' modified in 'users' table successfully
+Column 'notification_type' modified in 'users' table successfully
+Column 'timestamp' modified in 'users' table successfully
+Column 'name' modified in 'users' table successfully
+Column 'age' modified in 'users' table successfully
+Column 'birthday' modified in 'users' table successfully
+Column 'gender' modified in 'users' table successfully
+Database and tables already exist
+Default admin account already exists and is verified
+Database setup complete
+Column 'username' modified in 'users' table successfully
+Column 'email' modified in 'users' table successfully
+Column 'password' modified in 'users' table successfully
+Column 'is_admin' modified in 'users' table successfully
+Column 'is_verified' modified in 'users' table successfully
+Column 'notification' modified in 'users' table successfully
+Column 'notification_type' modified in 'users' table successfully
+Column 'timestamp' modified in 'users' table successfully
+Column 'name' modified in 'users' table successfully
+Column 'age' modified in 'users' table successfully
+Column 'birthday' modified in 'users' table successfully
+Column 'gender' modified in 'users' table successfully
+Database and tables already exist
+Default admin account already exists and is verified
+Database setup complete
+Column 'username' modified in 'users' table successfully
+Column 'email' modified in 'users' table successfully
+Column 'password' modified in 'users' table successfully
+Column 'is_admin' modified in 'users' table successfully
+Column 'is_verified' modified in 'users' table successfully
+Column 'notification' modified in 'users' table successfully
+Column 'notification_type' modified in 'users' table successfully
+Column 'timestamp' modified in 'users' table successfully
+Column 'name' modified in 'users' table successfully
+Column 'age' modified in 'users' table successfully
+Column 'birthday' modified in 'users' table successfully
+Column 'gender' modified in 'users' table successfully
+Database and tables already exist
+Default admin account already exists and is verified
+Database setup complete
